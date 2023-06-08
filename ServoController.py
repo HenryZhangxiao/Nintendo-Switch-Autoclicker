@@ -9,7 +9,7 @@ factory = PiGPIOFactory()
 servo = Servo(18, min_pulse_width=0.72/1000, max_pulse_width=2.52/1000, pin_factory=factory)
 UPPER_ANGLE = 0
 LOWER_ANGLE = 18
-INTERVAL = 5
+INTERVAL = 8
 
 def upper(angle):
     servo.value = -abs(angle/100)
