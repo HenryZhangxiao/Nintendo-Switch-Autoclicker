@@ -7,9 +7,9 @@ factory = PiGPIOFactory()
 
 #servo = AngularServo(18, min_pulse_width=0.0006, max_pulse_width=0.0023)
 servo = Servo(18, min_pulse_width=0.72/1000, max_pulse_width=2.52/1000, pin_factory=factory)
-UPPER_ANGLE = 10
-LOWER_ANGLE = 10
-INTERVAL = 0.8
+UPPER_ANGLE = 0
+LOWER_ANGLE = 18
+INTERVAL = 5
 
 def upper(angle):
     servo.value = -abs(angle/100)
@@ -18,18 +18,20 @@ def lower(angle):
     servo.value = abs(angle/100)
 
 def calibrate():
+    sleep(3)
     servo.min()
-    sleep(5)
+    sleep(3)
     servo.max()
-    sleep(5)
+    sleep(3)
     servo.mid()
 
 if __name__ == '__main__':
-    if sys.argv[1].lower() == 'calibrate' or sys.argv[1].lower() == 'c':
-        calibrate()
+    if len(sys.argv) >= 2:
+        if sys.argv[1].lower() == 'calibrate' or sys.argv[1].lower() == 'c':
+            calibrate()
     else:
         while (True):
             upper(UPPER_ANGLE)
             sleep(INTERVAL)
             lower(LOWER_ANGLE)
-            sleep(INTERVAL)
+            sleep(0.2)
