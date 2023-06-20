@@ -30,7 +30,7 @@ A more in-depth explanation of the game strategy used for this project can be fo
 - Raspberry Pi 3 - Model A+
 - Raspberry Pi OS (32-bit) (Debian distro)
 - TowerPro SG91R - Micro Servo
-- 3D Printer (Thanks @The-OnlyBirdman !)
+- 3D Printer (Thanks [@The-OnlyBirdman](https://github.com/The-OnlyBirdman)!)
   - Used to print a Micro Servo case for the Nintendo Switch controller
   - Printables file can be found [here](https://www.printables.com/model/138284-nintedo-switch-auto-clicker)
   - Note: This project used `A-Masher_Case_Corded.stl` but if you are using an external battery to power your servo, you may wish to use `A5-Masher_Case_Battery.stl` instead
