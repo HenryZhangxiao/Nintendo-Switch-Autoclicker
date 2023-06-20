@@ -3,7 +3,7 @@
   <br>
   <br>
   <p align="center">
-  	<img width="460" height="300" src="https://user-images.githubusercontent.com/44578113/166127909-791b4146-25d0-44d0-9bde-bee958cbd330.png">
+  	<img width="460" height="300" src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/a427111a-c4b1-4f48-a903-b53bae13095e">
 	</p>
 </h1>
 
@@ -42,6 +42,8 @@ A more in-depth explanation of the game strategy used for this project can be fo
 
 <br></br>
 ## At a Glance <a name="glance"></a>
+<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/df31971a-466e-4af8-88bd-60c3ac60d445">
+
 - 2 to 4 players can join the game and take turns discarding cards and taking new ones
 - The UI also allows each player to:
 	- See their current cards and select some for discarding
@@ -55,8 +57,6 @@ A more in-depth explanation of the game strategy used for this project can be fo
 ## Final iteration of the game (April 8): [Demo](https://www.youtube.com/watch?v=jWEatQwQw0E) <a name="final"></a>
 - The game is augmented with amours and allies
 - Mordred as able to kill an ally
-
-![image](https://user-images.githubusercontent.com/44578113/166127746-38f472b6-d395-4ec0-8e5f-c9e08a2b43a7.png)
 
 
 <br></br>
