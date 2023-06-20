@@ -5,12 +5,13 @@ from gpiozero.pins.pigpio import PiGPIOFactory
 import sys
 factory = PiGPIOFactory()
 
-#servo = AngularServo(18, min_pulse_width=0.0006, max_pulse_width=0.0023)
-servo = Servo(18, min_pulse_width=0.72/1000, max_pulse_width=2.52/1000, pin_factory=factory)
 UPPER_ANGLE = 0
 LOWER_ANGLE = 18
 INTERVAL = 8
+GPIO_DATA_PIN = 18
 
+#servo = AngularServo(18, min_pulse_width=0.0006, max_pulse_width=0.0023)
+servo = Servo(GPIO_DATA_PIN, min_pulse_width=0.72/1000, max_pulse_width=2.52/1000, pin_factory=factory)
 def upper(angle):
     servo.value = -abs(angle/100)
 
