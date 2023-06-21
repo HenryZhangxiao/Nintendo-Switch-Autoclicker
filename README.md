@@ -84,7 +84,7 @@ https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/85
     - Micro Servo set up and pins connected to Raspberry Pi
     - NOTE: Check the pin layout for your Raspberry Pi. The default GPIO Pin# being used in this program is 18 which corresponds to my PWM data pin. If your data pin is different, change the `GPIO_DATA_PIN` variable accordingly. If you are unsure what number your data pin is, just keep as default and only change if the program throws an error
     - NOTE: If you don't use some sort of Micro Servo printed case like the one detailed, you must find some way to properly secure the Servo as it produces more torque than you would think
-  - `sudo pigpiod`
+  - `sudo pigpiod` to launch the pigpio library as a daemon
   - (Optional) Edit the INTERVAL definition to the average button press obtained from `IntervalTester.py`
   - `python3 ServoController.py` to run the main program or run with command line argument `c` or `calibrate` to quickly determine the min, mid, and max angles of the servo. (Used to determine if pulse widths are satisfactory)
 
