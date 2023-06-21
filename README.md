@@ -3,7 +3,7 @@
   <br>
   <br>
   <p align="center">
-  	<img width="460" height="300" src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/a427111a-c4b1-4f48-a903-b53bae13095e">
+  	<img width="460" height="300" src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/db2f95d4-fd33-46fc-ba87-3bb69a6c39f9">
 	</p>
 </h1>
 
@@ -44,7 +44,7 @@ A more in-depth explanation of the game strategy used for this project can be fo
 
 <br></br>
 ## At a Glance <a name="glance"></a>
-<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/df31971a-466e-4af8-88bd-60c3ac60d445">
+<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/62176d68-95c1-4b6d-a579-fc4fa262ee20">
 
 - 9g Micro Servo with jumper cables attached to the 5V Power, Ground, and GPIO PWM pins
 - Servo drilled in to case using 2x M3 screws
@@ -54,7 +54,7 @@ A more in-depth explanation of the game strategy used for this project can be fo
 ## See it in action <a name="demo"></a>
 - Running with an `INTERVAL` of 8 seconds as obtained from a run with `IntervalTester.py`
 
-https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/85db4770-88db-459c-bed7-49f5745a1b99
+https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/d9044a19-65af-4c9e-98bf-4dac29bfc831
 
 
 <br></br>
@@ -62,13 +62,13 @@ https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/85
 - To quote Paul McCartney: "Let It Be"
 - Now that we know the program and hardware work as intended, all that's left is to dock the switch and leave it running overnight
 
-<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/18cbd017-0934-409e-b3d0-b4f321bec29b">
+<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/793a36ac-8559-4b1b-a044-9db7e88eaf7e">
 
 - So that we go from $300,000
-<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/ddeccc47-15cf-434b-a7b0-afb29b969653">
+<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/1f9bc1a0-4b86-4ca3-8e4b-113c8e49d3d9">
 
 - To $3,000,000
-<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/285a8d19-3916-4e97-bf34-2844b31111e1">
+<img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/aff75ca0-317f-483a-b82a-cffc3d28cb62">
 
 
 <br></br>
