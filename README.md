@@ -87,6 +87,7 @@ https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/d9
   - `sudo pigpiod` to launch the pigpio library as a daemon
   - (Optional) Edit the `INTERVAL` definition to the average button press timing obtained from `IntervalTester.py`
   - `python3 ServoController.py` to run the main program or run with command line argument `c` or `calibrate` to quickly determine the min, mid, and max angles of the servo. (Used to determine if pulse widths are satisfactory)
+- If all goes well... congrats! You just managed to accomplish what a turbo controller does for only 3x the price! But wasn't that rewarding?
 
 
 <br></br>
