@@ -43,7 +43,7 @@ A more in-depth explanation of the game strategy used for this project can be fo
 
 
 <br></br>
-## At a glance <a name="glance"></a>
+## At a Glance <a name="glance"></a>
 <img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/df31971a-466e-4af8-88bd-60c3ac60d445">
 
 - 9g Micro Servo with jumper cables attached to the 5V Power, Ground, and GPIO PWM pins
