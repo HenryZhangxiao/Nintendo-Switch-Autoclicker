@@ -20,7 +20,7 @@ A more in-depth explanation of the game strategy used for this project can be fo
 - [Technologies used ](#technologies)
 - [At a Glance ](#glance)
 - [See it in action ](#demo)
-- [Let It Be ](#let-it-be)
+- [Let it run ](#let-it-run)
 - [How to Run ](#run)
 - [Game Mechanics explanation ](#explanation)
 - [Copyright ](#copyright)
@@ -58,8 +58,7 @@ https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/d9
 
 
 <br></br>
-## Let It Be <a name="let-it-be"></a>
-- To quote Paul McCartney: "Let It Be"
+## Let it run <a name="let-it-run"></a>
 - Now that we know the program and hardware work as intended, all that's left is to dock the switch and leave it running overnight
 
 <img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/793a36ac-8559-4b1b-a044-9db7e88eaf7e">
