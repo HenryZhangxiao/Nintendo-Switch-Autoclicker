@@ -17,17 +17,17 @@ A more in-depth explanation of the game strategy used for this project can be fo
 
 
 #### Table of Contents
-- [Technologies used ](#technologies)
+- [Technologies Used ](#technologies)
 - [At a Glance ](#glance)
-- [See it in action ](#demo)
-- [Let it run ](#let-it-run)
+- [See it in Action ](#demo)
+- [Let it Run ](#let-it-run)
 - [How to Run ](#run)
 - [Game Mechanics explanation ](#explanation)
 - [Copyright ](#copyright)
 
 
 <br></br>
-## Technologies used <a name="technologies"></a>
+## Technologies Used <a name="technologies"></a>
 - Raspberry Pi 3 - Model A+
 - Raspberry Pi OS (32-bit) (Debian distro)
 - TowerPro SG91R - Micro Servo
@@ -51,14 +51,14 @@ A more in-depth explanation of the game strategy used for this project can be fo
 
 
 <br></br>
-## See it in action <a name="demo"></a>
+## See it in Action <a name="demo"></a>
 - Running with an `INTERVAL` of 8 seconds as obtained from a run with `IntervalTester.py`
 
 https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/d9044a19-65af-4c9e-98bf-4dac29bfc831
 
 
 <br></br>
-## Let it run <a name="let-it-run"></a>
+## Let it Run <a name="let-it-run"></a>
 - Now that we know the program and hardware work as intended, all that's left is to dock the switch and leave it running overnight
 
 <img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/793a36ac-8559-4b1b-a044-9db7e88eaf7e">
