@@ -63,9 +63,11 @@ https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/d9
 
 <img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/793a36ac-8559-4b1b-a044-9db7e88eaf7e">
 
+<br></br>
 - So that we go from $300,000
 <img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/1f9bc1a0-4b86-4ca3-8e4b-113c8e49d3d9">
 
+<br></br>
 - To $3,000,000
 <img width=50% height=50% src="https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker/assets/44578113/aff75ca0-317f-483a-b82a-cffc3d28cb62">
 
